@@ -38,10 +38,8 @@ PCs were assigned the first usable IP in each subnet
 Router interfaces were assigned the last usable IP in each subnet
 
 Successful connectivity tests:
-->ping between PC1 and PC2
->ping between PC1 and PC3
-->ping between PC1 ↔ R2 and PC3 ↔ R1
-
-ping between PC1 and PC2
+  ->ping between PC1 and PC2
+  ->ping between PC1 and PC3
+  ->ping between PC1 ↔ R2 and PC3 ↔ R1
 
 ping between PC1 ↔ R2 and PC2 ↔ R1
