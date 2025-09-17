@@ -26,5 +26,3 @@ Configured a default route on SW2 pointing to R1.
 Hosts in VLAN 10, 20, and 30 successfully ping each other via SVIs.
 
 Default route allows SW2 and VLAN hosts to reach the Internet.
-
-ping 1.1.1.1 from any PC succeeds.
