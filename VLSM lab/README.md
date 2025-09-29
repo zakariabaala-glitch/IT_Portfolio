@@ -37,12 +37,6 @@ PCs were assigned the first usable IP in each subnet
 
 Router interfaces were assigned the last usable IP in each subnet
 
-✅ Verification
-
-PCs were assigned the first usable IP in each subnet
-
-Router interfaces were assigned the last usable IP in each subnet
-
 Successful connectivity tests:
 
 ping between PC1 and PC2
